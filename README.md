@@ -5,3 +5,5 @@ We'll analyze the datasets and answer the questions below:
 
 * Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 * Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
+Here's the link to the project https://github.com/Nels04/Cleaning-and-Analyzing-Employee-Exit-Survey/blob/main/Cleaning%20and%20Analyzing%20Employee%20Exit%20Survey.ipynb
